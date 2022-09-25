@@ -2,7 +2,7 @@
   <br>
   <a href="https://github.com/cyph3rcod3r/Travel"><img src="https://github.com/cyph3rcod3r/Travel/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="Travel" width="200"></a>
   <br>
-  Lemon - Travel Planner App, Design Credits: Taqwah
+  Travel Planner App, Design Credits: Taqwah
   <br>
 </h1>
 
